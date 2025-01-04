@@ -1,7 +1,7 @@
 # Unemployment Rate Analysis in India  
 
 ## Objective  
-To perform a detailed analysis of unemployment trends in India over time using available datasets.  
+The objective of this project is to analyze unemployment trends in India over a period of time using a comprehensive dataset. This analysis aims to identify patterns, regional disparities, and temporal changes in unemployment rates. By leveraging data-driven insights, we can better understand the key factors influencing employment fluctuations, the economic impact on different regions, and variations based on data frequency. The findings are intended to support policymakers, researchers, and stakeholders in making informed decisions to address unemployment challenges and foster economic growth.  
 
 Dataset [here](https://github.com/NishaChandila/Unemployment-analysis/blob/main/Unemployment%20in%20India.csv)
 
